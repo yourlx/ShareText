@@ -1,0 +1,11 @@
+# IDE
+.idea/
+
+# build
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# mongo-data
+mongo-data/
